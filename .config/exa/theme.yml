@@ -1,0 +1,110 @@
+colourful: false
+
+filekinds:
+  normal: {foreground: "#FFFFFF"}
+  directory: {foreground: "#FFFFFF"}
+  symlink: {foreground: "#FFFFFF"}
+  pipe: {foreground: "#FFFFFF"}
+  block_device: {foreground: "#FFFFFF"}
+  char_device: {foreground: "#FFFFFF"}
+  socket: {foreground: "#FFFFFF"}
+  special: {foreground: "#FFFFFF"}
+  executable: {foreground: "#FFFFFF"}
+  mount_point: {foreground: "#FFFFFF"}
+
+perms:
+  user_read: {foreground: "#FFFFFF"}
+  user_write: {foreground: "#FFFFFF"}
+  user_execute_file: {foreground: "#FFFFFF"}
+  user_execute_other: {foreground: "#FFFFFF"}
+  group_read: {foreground: "#FFFFFF"}
+  group_write: {foreground: "#FFFFFF"}
+  group_execute: {foreground: "#FFFFFF"}
+  other_read: {foreground: "#FFFFFF"}
+  other_write: {foreground: "#FFFFFF"}
+  other_execute: {foreground: "#FFFFFF"}
+  special_user_file: {foreground: "#FFFFFF"}
+  special_other: {foreground: "#FFFFFF"}
+  attribute: {foreground: "#FFFFFF"}
+
+size:
+  major: {foreground: "#FFFFFF"}
+  minor: {foreground: "#FFFFFF"}
+  number_byte: {foreground: "#FFFFFF"}
+  number_kilo: {foreground: "#FFFFFF"}
+  number_mega: {foreground: "#FFFFFF"}
+  number_giga: {foreground: "#FFFFFF"}
+  number_huge: {foreground: "#FFFFFF"}
+  unit_byte: {foreground: "#FFFFFF"}
+  unit_kilo: {foreground: "#FFFFFF"}
+  unit_mega: {foreground: "#FFFFFF"}
+  unit_giga: {foreground: "#FFFFFF"}
+  unit_huge: {foreground: "#FFFFFF"}
+
+users:
+  user_you: {foreground: "#FFFFFF"}
+  user_root: {foreground: "#FFFFFF"}
+  user_other: {foreground: "#FFFFFF"}
+  group_yours: {foreground: "#FFFFFF"}
+  group_other: {foreground: "#FFFFFF"}
+  group_root: {foreground: "#FFFFFF"}
+
+links:
+  normal: {foreground: "#FFFFFF"}
+  multi_link_file: {foreground: "#FFFFFF"}
+
+git:
+  new: {foreground: "#FFFFFF"}
+  modified: {foreground: "#FFFFFF"}
+  deleted: {foreground: "#FFFFFF"}
+  renamed: {foreground: "#FFFFFF"}
+  typechange: {foreground: "#FFFFFF"}
+  ignored: {foreground: "#FFFFFF"}
+  conflicted: {foreground: "#FFFFFF"}
+
+git_repo:
+  branch_main: {foreground: "#FFFFFF"}
+  branch_other: {foreground: "#FFFFFF"}
+  git_clean: {foreground: "#FFFFFF"}
+  git_dirty: {foreground: "#FFFFFF"}
+
+security_context:
+  colon: {foreground: "#FFFFFF"}
+  user: {foreground: "#FFFFFF"}
+  role: {foreground: "#FFFFFF"}
+  typ: {foreground: "#FFFFFF"}
+  range: {foreground: "#FFFFFF"}
+
+file_type:
+  image: {foreground: "#FFFFFF"}
+  video: {foreground: "#FFFFFF"}
+  music: {foreground: "#FFFFFF"}
+  lossless: {foreground: "#FFFFFF"}
+  crypto: {foreground: "#FFFFFF"}
+  document: {foreground: "#FFFFFF"}
+  compressed: {foreground: "#FFFFFF"}
+  temp: {foreground: "#FFFFFF"}
+  compiled: {foreground: "#FFFFFF"}
+  build: {foreground: "#FFFFFF"}
+  source: {foreground: "#FFFFFF"}
+
+punctuation: {foreground: "#FFFFFF"}
+date: {foreground: "#FFFFFF"}
+inode: {foreground: "#FFFFFF"}
+blocks: {foreground: "#FFFFFF"}
+header: {foreground: "#FFFFFF"}
+octal: {foreground: "#FFFFFF"}
+flags: {foreground: "#FFFFFF"}
+
+symlink_path: {foreground: "#FFFFFF"}
+control_char: {foreground: "#FFFFFF"}
+broken_symlink: {foreground: "#FFFFFF"}
+broken_path_overlay: {foreground: "#FFFFFF"}
+
+filenames:
+  # Custom filename-based overrides
+  # Cargo.toml: {icon: {glyph: 🦀}}
+
+extensions:
+  # Custom extension-based overrides
+  # rs: {filename: {foreground: Red}, icon: {glyph: 🦀}}
