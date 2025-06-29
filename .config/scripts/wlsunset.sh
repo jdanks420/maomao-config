@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-wlsunset -t 3000
+wlsunset -T 3501 -t 3500
