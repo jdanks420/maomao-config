@@ -1,6 +1,6 @@
 #!/bin/bash
 
-chosen=$(echo -e "Scroller\nTile\nGrid\nMonocle\nDwindle\nSpiral" | rofi -dmenu -theme ~/.config/rofi/mmsglayout.rasi)
+chosen=$(echo -e "Scroller\nTile\nGrid\nMonocle\nDwindle\nSpiral\n" | rofi -dmenu -theme ~/.config/rofi/mmsglayout.rasi)
 
 if [[ $chosen = "Scroller" ]]; then
 	mmsg -l 'S' && notify-send -t 900 "  Scroller Mode"
