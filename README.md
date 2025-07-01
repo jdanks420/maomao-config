@@ -15,3 +15,8 @@ chmod +x ~/.config/maomao/autostart.sh
 3. set the gtk theme, icons and font in nwg-look
 
 4. reboot and log into maomao
+
+![image](https://github.com/user-attachments/assets/46cfb3da-fc73-4cf0-a122-7bc5f0b078f9)
+![image](https://github.com/user-attachments/assets/6be18199-55bd-4018-8a75-1db03ee38e57)
+![image](https://github.com/user-attachments/assets/550149e5-9ae0-477c-9cbf-7b520d3fa68e)
+![minecraftjunglebluegreen](https://github.com/user-attachments/assets/2891220f-f7d5-4cc5-b25a-18ab99574b9d)
