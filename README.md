@@ -19,4 +19,8 @@ chmod +x ~/.config/maomao/autostart.sh
 ![image](https://github.com/user-attachments/assets/46cfb3da-fc73-4cf0-a122-7bc5f0b078f9)
 ![image](https://github.com/user-attachments/assets/6be18199-55bd-4018-8a75-1db03ee38e57)
 ![image](https://github.com/user-attachments/assets/550149e5-9ae0-477c-9cbf-7b520d3fa68e)
+![image](https://github.com/user-attachments/assets/4a88871e-1257-4331-a347-d06c01cd526e)
+![image](https://github.com/user-attachments/assets/6c9e778e-0fc4-4985-bc86-6271cb389a19)
+![image](https://github.com/user-attachments/assets/8769213b-9533-4e35-8ee6-0c6c656ce28f)
+![image](https://github.com/user-attachments/assets/96111ffc-d981-44fa-b337-10259ccb4dc0)
 ![minecraftjunglebluegreen](https://github.com/user-attachments/assets/2891220f-f7d5-4cc5-b25a-18ab99574b9d)
